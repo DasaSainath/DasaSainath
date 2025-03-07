@@ -1,5 +1,7 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm <span style="color:#FF5733;">Sainath Dasa</span></h1>  
-<h3 align="center"><span style="color:#3498db;">Data Analyst | Data Scientist | AI Enthusiast</span></h3>  
+<div style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm <span style="color:#FF5733;">Sainath Dasa</span></h1>
+<h3 align="center">✨ Data Analyst | Data Scientist | AI Enthusiast ✨</h3>
 
 <p align="center">
   <a href="mailto:sainath.unf219@gmail.com">
@@ -18,10 +20,10 @@
 
 ---
 
-## 🎯 **About Me**  
-<div style="background-color:#f4f4f4; padding:10px; border-radius:10px;">
+## 🎯 **About Me**
+<p style="background:#292a36; padding:10px; border-radius:8px;">
 I am a <b>Data Analyst / Data Scientist</b> passionate about transforming raw data into meaningful insights that drive business decisions. With a strong background in <span style="color:#2ecc71;">Machine Learning, AI, and Big Data</span>, I leverage data-driven techniques to optimize processes and improve operational efficiency.
-</div>
+</p>
 
 📌 **Education:**  
 - 🎓 <b>Master of Information Systems & Technologies</b> – Wilmington University *(2025)*  
@@ -30,7 +32,7 @@ I am a <b>Data Analyst / Data Scientist</b> passionate about transforming raw da
 
 ---
 
-## 🚀 **Core Competencies**  
+## 🚀 **Core Competencies**
 ✔ **Data Analysis & Business Intelligence** – Statistical analysis, A/B testing, forecasting, and decision-making.  
 ✔ **Machine Learning & Predictive Modeling** – Regression, classification, clustering, feature engineering, and model optimization.  
 ✔ **Big Data & Cloud Technologies** – Hands-on experience with AWS (S3, EC2), Google BigQuery, and data engineering.  
@@ -39,7 +41,7 @@ I am a <b>Data Analyst / Data Scientist</b> passionate about transforming raw da
 
 ---
 
-## 🛠 **Skills & Tools**  
+## 🛠 **Skills & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
@@ -57,7 +59,7 @@ I am a <b>Data Analyst / Data Scientist</b> passionate about transforming raw da
 
 ---
 
-## 📬 **Contact Me**  
+## 📬 **Contact Me**
 📩 **Email:** [sainath.unf219@gmail.com](mailto:sainath.unf219@gmail.com)  
 📞 **Phone:** +1 203-606-9535  
 🔗 **LinkedIn:** [Sainath Dasa](https://www.linkedin.com/in/SainathDasa/)  
@@ -65,5 +67,7 @@ I am a <b>Data Analyst / Data Scientist</b> passionate about transforming raw da
 
 ---
 
-## 🤝 **Let's Collaborate!**  
+## 🤝 **Let's Collaborate!**
 ✨ I'm always excited to connect with data enthusiasts and collaborate on impactful projects. Feel free to reach out! 🚀  
+
+</div>
