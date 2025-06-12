@@ -33,6 +33,7 @@ I am a <b>Data Analyst / Data Scientist</b> passionate about transforming raw da
 ---
 
 🚀 Core Competencies
+
 ✔ **Generative AI & NLP** – Expertise in LLM fine-tuning, Stable Diffusion, DALL-E, Hugging Face, and building AI-driven solutions.
 
 ✔ **Machine Learning & Predictive Modeling** – Designing and optimizing models (regression, classification, clustering) , feature engineering, hyperparameter tuning , and model evaluation  using Scikit-learn, TensorFlow, and PyTorch.
