@@ -32,12 +32,12 @@ I am a <b>Data Analyst / Data Scientist</b> passionate about transforming raw da
 
 ---
 
-## 🚀 **Core Competencies**
-✔ **Data Analysis & Business Intelligence** – Statistical analysis, A/B testing, forecasting, and decision-making.  
-✔ **Machine Learning & Predictive Modeling** – Regression, classification, clustering, feature engineering, and model optimization.  
-✔ **Big Data & Cloud Technologies** – Hands-on experience with AWS (S3, EC2), Google BigQuery, and data engineering.  
-✔ **Data Visualization & Reporting** – Tableau, Power BI, and SQL-based pipelines for interactive dashboards.  
-✔ **Automation & Data Engineering** – ETL pipelines, CI/CD deployment, and workflow automation with Python & SQL.  
+🚀 Core Competencies
+✔ Generative AI & NLP – Expertise in LLM fine-tuning, Stable Diffusion, DALL-E, Hugging Face, and building AI-driven solutions.
+✔ Machine Learning & Predictive Modeling – Designing and optimizing models (regression, classification, clustering) , feature engineering, hyperparameter tuning , and model evaluation  using Scikit-learn, TensorFlow, and PyTorch.
+✔ Big Data & Cloud Technologies – Hands-on experience with AWS (S3, EC2, Lambda, Glue, SageMaker, Redshift) , Google BigQuery , Docker , and designing scalable data pipelines.
+✔ Data Engineering & MLOps – Building end-to-end ETL pipelines , CI/CD deployment , workflow automation with Python & SQL , and maintaining centralized data lakes and feature stores.
+✔ Data Visualization & Business Intelligence – Creating interactive dashboards and automated reports using Power BI, Tableau, Python visualization libraries (Pandas, NumPy, Matplotlib, Seaborn), and SQL for data insights and quality tracking.
 
 ---
 
