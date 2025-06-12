@@ -1,7 +1,7 @@
 <div style="background-color:#1e1e2e; color:#ffffff; padding:20px; border-radius:10px;">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm <span style="color:#FF5733;">Sainath Dasa</span></h1>
-<h3 align="center">✨ Data Analyst | Data Scientist | AI Enthusiast ✨</h3>
+<h3 align="center">✨ Gen AI | Machine Learning | Data Analyst | Data Engineering | AI Enthusiast ✨</h3>
 
 <p align="center">
   <a href="mailto:sainath.unf219@gmail.com">
